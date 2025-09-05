@@ -1,0 +1,5 @@
+training accuracy: 85.68
+Validation Accuracy: 85.47
+Epochs 100
+Batch Size 64
+Image Size 192
