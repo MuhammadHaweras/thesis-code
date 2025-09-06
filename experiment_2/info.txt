@@ -1,0 +1,4 @@
+Trained convnext with 224x224 images.
+First it got overfitted
+Then fine tunded and customized to achieve 98+ training and 97+ validation accuracy
+
