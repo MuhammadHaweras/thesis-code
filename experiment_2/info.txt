@@ -1,1 +1,0 @@
-training convnext 224 to achieve 95+ val accuracy
